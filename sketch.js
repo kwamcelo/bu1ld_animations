@@ -1,7 +1,11 @@
 function setup() {
-  createCanvas(400, 400);
+  height = 600;
+  width = 800;
+  createCanvas(width, height);
 }
 
 function draw() {
-  background(220);
+  background("teal");
+  
+  
 }
